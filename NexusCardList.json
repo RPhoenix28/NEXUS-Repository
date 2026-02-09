@@ -11,7 +11,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Consult The Tomes",
+    "name": "Consult The Tomes-NEX01",
     "type": "Action",
     "cost": "2"
   },
@@ -27,7 +27,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Goku, The Planet's Hope",
+    "name": "Goku, The Planet's Hope-BFN01",
     "type": "Hero",
     "cost": 0
   },
@@ -43,7 +43,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gohan, Budding Warrior",
+    "name": "Gohan, Budding Warrior-BFN02",
     "type": "Character",
     "cost": "2"
   },
@@ -59,7 +59,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Krillin, Reliable Tactician",
+    "name": "Krillin, Reliable Tactician-BFN03",
     "type": "Character",
     "cost": "4"
   },
@@ -75,7 +75,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Piccolo, Fused Power",
+    "name": "Piccolo, Fused Power-BFN04",
     "type": "Character",
     "cost": "6"
   },
@@ -91,7 +91,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spirit Bomb",
+    "name": "Spirit Bomb-BFN05",
     "type": "Special",
     "cost": 0
   },
@@ -107,7 +107,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gohan's Sneak Attack",
+    "name": "Gohan's Sneak Attack-BFN06",
     "type": "Action",
     "cost": "2"
   },
@@ -123,7 +123,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Krillin & Gohan, United Stand",
+    "name": "Krillin & Gohan, United Stand-BFN07",
     "type": "Special",
     "cost": "6"
   },
@@ -139,7 +139,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Goku, Legendary Super Saiyan",
+    "name": "Goku, Legendary Super Saiyan-BFN08",
     "type": "Special",
     "cost": "9"
   },
@@ -155,7 +155,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Namekian Grassland",
+    "name": "Namekian Grassland-BFN09",
     "type": "Effect",
     "cost": "4"
   },
@@ -171,7 +171,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Following The Dragon Radar",
+    "name": "Following The Dragon Radar-BFN10",
     "type": "Effect",
     "cost": "6"
   },
@@ -187,7 +187,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vegeta, Bent on Revenge",
+    "name": "Vegeta, Bent on Revenge-BFN11",
     "type": "Character",
     "cost": "5"
   },
@@ -203,7 +203,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gohan's Discovery",
+    "name": "Gohan's Discovery-BFN12",
     "type": "Action",
     "cost": "2"
   },
