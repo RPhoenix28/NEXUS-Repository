@@ -206,5 +206,21 @@
     "name": "Gohan's Discovery",
     "type": "Action",
     "cost": "2"
+  },
+  "BFT01": {
+    "id": "BFT01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Ki Token",
+        "type": "Effect",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470500818955403434/Ki.png?ex=698b861b&is=698a349b&hm=ec448416fad41b44bced37a9aaeb0b98f75cb68b5370f4ecc66324dffc27e5cd&",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ki Token",
+    "type": "Effect",
+    "cost": 0
   }
 }
