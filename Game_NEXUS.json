@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/RPhoenix28/NEXUS-Demo/refs/heads/main/NexusCardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/RPhoenix28/NEXUS-Repository/refs/heads/main/NexusCardList.json",
     "cardBack": "https://cdn.discordapp.com/attachments/1469865807725985832/1470113834902618267/8LfH4uAAAABklEQVQDAK4kPnl7Zy0AAAAAElFTkSuQmCC.png?ex=698a1db3&is=6988cc33&hm=81dcca4a88556b2a69d2d5f4654347d195f78471d95c95b2424f445c035f0a59"
   },
   "deckBuilding": {
