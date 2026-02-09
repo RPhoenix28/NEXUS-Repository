@@ -1,0 +1,210 @@
+{
+  "NEX01": {
+    "id": "NEX01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Consult The Tomes",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470512111879848202/Consult_The_Tomes.png?ex=698b90a0&is=698a3f20&hm=e258a333ffcd12bad3e478bcd38aad42b99408ca2cc1b5d9478553cee0ad6d28",
+        "isHorizontal": false
+      }
+    },
+    "name": "Consult The Tomes",
+    "type": "Action",
+    "cost": "2"
+  },
+  "BFN01": {
+    "id": "BFN01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goku, The Planet's Hope",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470500818430984212/Goku_The_Planets_Hope.png?ex=698b861b&is=698a349b&hm=d131f60f50ff6ea8f5fd1cecbb30189727ca064f5f2e2764c517b2823af33ef4&",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goku, The Planet's Hope",
+    "type": "Hero",
+    "cost": 0
+  },
+  "BFN02": {
+    "id": "BFN02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gohan, Budding Warrior",
+        "type": "Character",
+        "cost": "0",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470495409687363831/Gohan_Budding_Warrior.png?ex=698b8112&is=698a2f92&hm=3eb65ce39c22026a059f717fda3b2bf9793ea2ee63e75c1fdf33dd41336fe036",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gohan, Budding Warrior",
+    "type": "Character",
+    "cost": "2"
+  },
+  "BFN03": {
+    "id": "BFN03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krillin, Reliable Tactician",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470502665036234924/Krillin_Reliable_Tactician.png?ex=698b87d3&is=698a3653&hm=8fb0f23bd1f9da852224f2b5529d9b8f2b75babd3df61f99dc1a908a11b44963",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krillin, Reliable Tactician",
+    "type": "Character",
+    "cost": "4"
+  },
+  "BFN04": {
+    "id": "BFN04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo, Fused Power",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470505645173248021/Piccolo_Fused_Power.png?ex=698b8a9a&is=698a391a&hm=f2f45b4399403a2bf309d305948aa9ff6ab64fb07715ab1ece467b3eb6585bad",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo, Fused Power",
+    "type": "Character",
+    "cost": "6"
+  },
+  "BFN05": {
+    "id": "BFN05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spirit Bomb",
+        "type": "Special",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470508013185142965/Spirit_Bomb.png?ex=698b8ccf&is=698a3b4f&hm=3aec38cd5b71b21321241b8d3f6e2efb0b4cfdc74b8040491cc00a087136e026",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spirit Bomb",
+    "type": "Special",
+    "cost": 0
+  },
+  "BFN06": {
+    "id": "BFN06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gohan's Sneak Attack",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470511279763493056/Gohans_Sneak_Attack.png?ex=698b8fd9&is=698a3e59&hm=9bc0389e9349c14429ca37fcc12e29880a58f8e11bfea295b740f67f04a9cda4",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gohan's Sneak Attack",
+    "type": "Action",
+    "cost": "2"
+  },
+  "BFN07": {
+    "id": "BFN07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krillin & Gohan, United Stand",
+        "type": "Special",
+        "cost": "6",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470518442145742859/Krillin__Gohan_United_Stand.png?ex=698b9685&is=698a4505&hm=b9d5a7b6a683a1df717b25d32f65204c803bd301c0b41f7f82f86d1930030a57",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krillin & Gohan, United Stand",
+    "type": "Special",
+    "cost": "6"
+  },
+  "BFN08": {
+    "id": "BFN08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goku, Legendary Super Saiyan",
+        "type": "Special",
+        "cost": "9",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470521299938971690/Goku_Legendary_Super_Saiyan.png?ex=698b992e&is=698a47ae&hm=f5642a13096742ef2ab19a8e2c5ea0596f76f1caca3f3d741cbbee8a9446ee21",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goku, Legendary Super Saiyan",
+    "type": "Special",
+    "cost": "9"
+  },
+  "BFN09": {
+    "id": "BFN09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Namekian Grassland",
+        "type": "Effect",
+        "cost": "4",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470524595990691870/Namekian_Grassland.png?ex=698b9c40&is=698a4ac0&hm=8b458a21c0ff7fda34f25545b98a4cfec6cf94bc3cc4a323148d4de7e1a3188a",
+        "isHorizontal": false
+      }
+    },
+    "name": "Namekian Grassland",
+    "type": "Effect",
+    "cost": "4"
+  },
+  "BFN10": {
+    "id": "BFN10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Following The Dragon Radar",
+        "type": "Effect",
+        "cost": "4",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470527437296369838/Following_the_Dragon_Radar.png?ex=698b9ee6&is=698a4d66&hm=e84f28f8179553d7d58224268c19fa1f87e683351245cb656243caf42ecb0d15",
+        "isHorizontal": false
+      }
+    },
+    "name": "Following The Dragon Radar",
+    "type": "Effect",
+    "cost": "6"
+  },
+  "BFN11": {
+    "id": "BFN11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta, Bent on Revenge",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470529580744970312/Vegeta_Bent_on_Revenge.png?ex=698ba0e5&is=698a4f65&hm=092c707516daf833882230b5319c7b3aeaf17dc2cb2ea0edf1c38b741ed9b8a1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta, Bent on Revenge",
+    "type": "Character",
+    "cost": "5"
+  },
+  "BFN12": {
+    "id": "BFN12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gohan's Discovery",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470531857601794079/KpDjJFnyQoAAAAASUVORK5CYII.png?ex=698ba304&is=698a5184&hm=850ad0ef557c973d3f0281344d69debadd7f8769cd195e706296fb6f65efaf92",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gohan's Discovery",
+    "type": "Action",
+    "cost": "2"
+  }
+}
