@@ -4,14 +4,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Consult The Tomes",
+        "name": "Consult The Chomes",
         "type": "Action",
         "cost": "2",
         "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-Card-Images/Consult%20The%20Tomes.png",
         "isHorizontal": false
       }
     },
-    "name": "Consult The Tomes-NEX01",
+    "name": "Consult The Chomes-NEX01",
     "type": "Action",
     "cost": "2"
   },
