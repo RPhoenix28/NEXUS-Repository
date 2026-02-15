@@ -103,7 +103,7 @@
         "name": "Gohan's Sneak Attack",
         "type": "Action",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470511279763493056/Gohans_Sneak_Attack.png?ex=698b8fd9&is=698a3e59&hm=9bc0389e9349c14429ca37fcc12e29880a58f8e11bfea295b740f67f04a9cda4",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Gohan's%20Sneak%20Attack.png",
         "isHorizontal": false
       }
     },
@@ -119,7 +119,7 @@
         "name": "Krillin & Gohan, United Stand",
         "type": "Special",
         "cost": "6",
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470518442145742859/Krillin__Gohan_United_Stand.png?ex=698b9685&is=698a4505&hm=b9d5a7b6a683a1df717b25d32f65204c803bd301c0b41f7f82f86d1930030a57",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Krillin%20%26%20Gohan%2C%20United%20Stand.png",
         "isHorizontal": false
       }
     },
@@ -135,7 +135,7 @@
         "name": "Goku, Legendary Super Saiyan",
         "type": "Special",
         "cost": "9",
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470521299938971690/Goku_Legendary_Super_Saiyan.png?ex=698b992e&is=698a47ae&hm=f5642a13096742ef2ab19a8e2c5ea0596f76f1caca3f3d741cbbee8a9446ee21",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Goku%2C%20Legendary%20Super%20Saiyan.png",
         "isHorizontal": false
       }
     },
@@ -151,7 +151,7 @@
         "name": "Namekian Grassland",
         "type": "Effect",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470524595990691870/Namekian_Grassland.png?ex=698b9c40&is=698a4ac0&hm=8b458a21c0ff7fda34f25545b98a4cfec6cf94bc3cc4a323148d4de7e1a3188a",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Namekian%20Grassland.png",
         "isHorizontal": false
       }
     },
@@ -167,7 +167,7 @@
         "name": "Following The Dragon Radar",
         "type": "Effect",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470527437296369838/Following_the_Dragon_Radar.png?ex=698b9ee6&is=698a4d66&hm=e84f28f8179553d7d58224268c19fa1f87e683351245cb656243caf42ecb0d15",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Following%20the%20Dragon%20Radar.png",
         "isHorizontal": false
       }
     },
@@ -183,7 +183,7 @@
         "name": "Vegeta, Bent on Revenge",
         "type": "Character",
         "cost": "5",
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470529580744970312/Vegeta_Bent_on_Revenge.png?ex=698ba0e5&is=698a4f65&hm=092c707516daf833882230b5319c7b3aeaf17dc2cb2ea0edf1c38b741ed9b8a1",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Vegeta%2C%20Bent%20on%20Revenge.png",
         "isHorizontal": false
       }
     },
@@ -199,7 +199,7 @@
         "name": "Gohan's Discovery",
         "type": "Action",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470531857601794079/KpDjJFnyQoAAAAASUVORK5CYII.png?ex=698ba304&is=698a5184&hm=850ad0ef557c973d3f0281344d69debadd7f8769cd195e706296fb6f65efaf92",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Gohan's%20DIscovery.png",
         "isHorizontal": false
       }
     },
@@ -215,7 +215,7 @@
         "name": "Ki Token",
         "type": "Effect",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470500818955403434/Ki.png?ex=698b861b&is=698a349b&hm=ec448416fad41b44bced37a9aaeb0b98f75cb68b5370f4ecc66324dffc27e5cd&",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Ki%20Token.png",
         "isHorizontal": false
       }
     },
