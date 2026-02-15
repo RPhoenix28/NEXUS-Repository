@@ -7,7 +7,7 @@
         "name": "Consult The Tomes",
         "type": "Action",
         "cost": "2",
-        "image": "https://ibb.co/VY5MgV8H",
+        "image": "https://iili.io/qJLeQkX.png",
         "isHorizontal": false
       }
     },
@@ -23,7 +23,7 @@
         "name": "Goku, The Planet's Hope",
         "type": "Hero",
         "cost": 0,
-        "image": "https://ibb.co/YBWqbwjB",
+        "image": "https://iili.io/qJLDXg1.png",
         "isHorizontal": false
       }
     },
@@ -39,7 +39,7 @@
         "name": "Gohan, Budding Warrior",
         "type": "Character",
         "cost": "0",
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Gohan%2C%20Budding%20Warrior.png",
+        "image": "https://iili.io/qJLDvXR.png",
         "isHorizontal": false
       }
     },
@@ -55,7 +55,7 @@
         "name": "Krillin, Reliable Tactician",
         "type": "Character",
         "cost": "4",
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Krillin%2C%20Reliable%20Tactician.png",
+        "image": "https://iili.io/qJLDw5g.png",
         "isHorizontal": false
       }
     },
@@ -71,7 +71,7 @@
         "name": "Piccolo, Fused Power",
         "type": "Character",
         "cost": "6",
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Piccolo%2C%20Fused%20Power.png",
+        "image": "https://iili.io/qJLDFfI.png",
         "isHorizontal": false
       }
     },
@@ -87,7 +87,7 @@
         "name": "Spirit Bomb",
         "type": "Special",
         "cost": 0,
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Spirit%20Bomb.png",
+        "image": "https://iili.io/qJLDfUX.png",
         "isHorizontal": false
       }
     },
@@ -103,7 +103,7 @@
         "name": "Gohan's Sneak Attack",
         "type": "Action",
         "cost": "2",
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Gohan's%20Sneak%20Attack.png",
+        "image": "https://iili.io/qJLttl1.png",
         "isHorizontal": false
       }
     },
@@ -119,7 +119,7 @@
         "name": "Krillin & Gohan, United Stand",
         "type": "Special",
         "cost": "6",
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Krillin%20%26%20Gohan%2C%20United%20Stand.png",
+        "image": "https://iili.io/qJLD9Dv.png",
         "isHorizontal": false
       }
     },
@@ -135,7 +135,7 @@
         "name": "Goku, Legendary Super Saiyan",
         "type": "Special",
         "cost": "9",
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Goku%2C%20Legendary%20Super%20Saiyan.png",
+        "image": "https://iili.io/qJLtpRa.png",
         "isHorizontal": false
       }
     },
@@ -151,7 +151,7 @@
         "name": "Namekian Grassland",
         "type": "Effect",
         "cost": "4",
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Namekian%20Grassland.png",
+        "image": "https://iili.io/qJLt2ae.png",
         "isHorizontal": false
       }
     },
@@ -167,7 +167,7 @@
         "name": "Following The Dragon Radar",
         "type": "Effect",
         "cost": "4",
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Following%20the%20Dragon%20Radar.png",
+        "image": "https://iili.io/qJLZ6GI.png",
         "isHorizontal": false
       }
     },
@@ -183,7 +183,7 @@
         "name": "Vegeta, Bent on Revenge",
         "type": "Character",
         "cost": "5",
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Vegeta%2C%20Bent%20on%20Revenge.png",
+        "image": "https://iili.io/qJLtlMN.png",
         "isHorizontal": false
       }
     },
@@ -199,7 +199,7 @@
         "name": "Gohan's Discovery",
         "type": "Action",
         "cost": "2",
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Gohan's%20DIscovery.png",
+        "image": "https://iili.io/qJLZQvs.png",
         "isHorizontal": false
       }
     },
@@ -215,7 +215,7 @@
         "name": "Ki Token",
         "type": "Effect",
         "cost": 0,
-        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Ki%20Token.png",
+        "image": "https://iili.io/qJLDkzv.png",
         "isHorizontal": false
       }
     },
