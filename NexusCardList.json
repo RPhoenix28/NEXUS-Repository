@@ -23,7 +23,7 @@
         "name": "Goku, The Planet's Hope",
         "type": "Hero",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470500818430984212/Goku_The_Planets_Hope.png?ex=698b861b&is=698a349b&hm=d131f60f50ff6ea8f5fd1cecbb30189727ca064f5f2e2764c517b2823af33ef4&",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Goku%2C%20The%20Planet's%20Hope.png",
         "isHorizontal": false
       }
     },
@@ -39,7 +39,7 @@
         "name": "Gohan, Budding Warrior",
         "type": "Character",
         "cost": "0",
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470495409687363831/Gohan_Budding_Warrior.png?ex=698b8112&is=698a2f92&hm=3eb65ce39c22026a059f717fda3b2bf9793ea2ee63e75c1fdf33dd41336fe036",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Gohan%2C%20Budding%20Warrior.png",
         "isHorizontal": false
       }
     },
@@ -55,7 +55,7 @@
         "name": "Krillin, Reliable Tactician",
         "type": "Character",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470502665036234924/Krillin_Reliable_Tactician.png?ex=698b87d3&is=698a3653&hm=8fb0f23bd1f9da852224f2b5529d9b8f2b75babd3df61f99dc1a908a11b44963",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Krillin%2C%20Reliable%20Tactician.png",
         "isHorizontal": false
       }
     },
@@ -71,7 +71,7 @@
         "name": "Piccolo, Fused Power",
         "type": "Character",
         "cost": "6",
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470505645173248021/Piccolo_Fused_Power.png?ex=698b8a9a&is=698a391a&hm=f2f45b4399403a2bf309d305948aa9ff6ab64fb07715ab1ece467b3eb6585bad",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Piccolo%2C%20Fused%20Power.png",
         "isHorizontal": false
       }
     },
@@ -87,7 +87,7 @@
         "name": "Spirit Bomb",
         "type": "Special",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1470487006634315907/1470508013185142965/Spirit_Bomb.png?ex=698b8ccf&is=698a3b4f&hm=3aec38cd5b71b21321241b8d3f6e2efb0b4cfdc74b8040491cc00a087136e026",
+        "image": "https://github.com/RPhoenix28/NEXUS-Repository/blob/main/NEXUS-BFN-Images/Spirit%20Bomb.png",
         "isHorizontal": false
       }
     },
