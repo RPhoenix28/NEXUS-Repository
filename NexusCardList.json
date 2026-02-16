@@ -430,5 +430,21 @@
     "name": "Shocking Assault-GCQ13",
     "type": "Action",
     "cost": "3"
+  },
+  "GCT01": {
+    "id": "GCT01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Frieza Soldier Token",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://iili.io/qdAQlAG.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frieza Soldier Token",
+    "type": "Character",
+    "cost": 0
   }
 }
