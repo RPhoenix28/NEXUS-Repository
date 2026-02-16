@@ -82,16 +82,16 @@
     ]
   }
 },
-  {
-  "title": "Starter Deck - Battle For Shnamek",
-  "id": "011b8557-f6a6-47e8-80e3-b8ac5d51dcb7",
+    {
+  "title": "Starter Deck - Galactic Conquest",
+  "id": "b8e49a5f-55d0-4c66-9676-a1351c192026",
   "game": "NEXUS",
   "format": [
     "Standard"
   ],
   "cardCount": 31,
-  "createdAt": "2026-02-09T22:24:38.788Z",
-  "lastModifiedAt": "2026-02-09T23:33:02.235Z",
+  "createdAt": "2026-02-16T18:17:36.955Z",
+  "lastModifiedAt": "2026-02-16T18:20:19.319Z",
   "deckList": {
     "categoriesOrder": [
       "Hero",
@@ -104,63 +104,63 @@
     "Action": [
       {
         "count": 3,
-        "id": "NEX01"
+        "id": "GCQ09"
       },
       {
         "count": 3,
-        "id": "BFN06"
+        "id": "GCQ11"
       },
       {
         "count": 3,
-        "id": "BFN12"
+        "id": "GCQ13"
       }
     ],
     "Hero": [
       {
         "count": 1,
-        "id": "BFN01"
+        "id": "GCQ01"
       }
     ],
     "Character": [
       {
         "count": 3,
-        "id": "BFN02"
+        "id": "GCQ02"
       },
       {
         "count": 3,
-        "id": "BFN03"
+        "id": "GCQ03"
       },
       {
         "count": 3,
-        "id": "BFN04"
+        "id": "GCQ06"
       },
       {
         "count": 3,
-        "id": "BFN11"
+        "id": "GQC07"
       }
     ],
     "Special": [
       {
         "count": 1,
-        "id": "BFN07"
+        "id": "GCQ05"
       },
       {
         "count": 1,
-        "id": "BFN08"
+        "id": "GCQ04"
       },
       {
         "count": 1,
-        "id": "BFN05"
+        "id": "GCQ08"
       }
     ],
     "Effect": [
       {
         "count": 3,
-        "id": "BFN09"
+        "id": "GCQ10"
       },
       {
         "count": 3,
-        "id": "BFN10"
+        "id": "GCQ12"
       }
     ]
   }
