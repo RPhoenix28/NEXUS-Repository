@@ -222,5 +222,213 @@
     "name": "Ki Token",
     "type": "Effect",
     "cost": 0
+  },
+  "GCQ01": {
+    "id": "GCQ01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frieza, Dreadful Emperor-GCQ01",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://iili.io/qdAQVPS.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frieza, Dreadful Emperor-GCQ01",
+    "type": "Hero",
+    "cost": 0
+  },
+  "GCQ02": {
+    "id": "GCQ02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recoome & Guldo",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://iili.io/qdAQAPI.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recoome & Guldo-GCQ02",
+    "type": "Character",
+    "cost": "3"
+  },
+  "GCQ03": {
+    "id": "GCQ03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Burter & Jeice",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://iili.io/qdAQ3MB.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Burter & Jeice-GCQ03",
+    "type": "Character",
+    "cost": "4"
+  },
+  "GCQ04": {
+    "id": "GCQ04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ginyu, Elite Captain",
+        "type": "Special",
+        "cost": "6",
+        "image": "https://iili.io/qdAQztR.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ginyu, Elite Captain-GCQ04",
+    "type": "Special",
+    "cost": "6"
+  },
+  "GCQ05": {
+    "id": "GCQ05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frieza, Full Power at Last",
+        "type": "Special",
+        "cost": "9",
+        "image": "https://iili.io/qdALLn2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frieza, Full Power at Last-GCQ05",
+    "type": "Special",
+    "cost": "9"
+  },
+  "GCQ06": {
+    "id": "GCQ06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zarbon, Elegant Vanguard",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://iili.io/qdALiZl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zarbon, Elegant Vanguard-GCQ06",
+    "type": "Character",
+    "cost": "3"
+  },
+  "GQC07": {
+    "id": "GQC07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dodoria, Brutal Vanguard",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://iili.io/qdALS3X.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dodoria, Brutal Vanguard-GCQ07",
+    "type": "Character",
+    "cost": "2"
+  },
+  "GCQ08": {
+    "id": "GCQ08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Death Ball",
+        "type": "Special",
+        "cost": 0,
+        "image": "https://iili.io/qdAQoAJ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Ball-GCQ08",
+    "type": "Special",
+    "cost": 0
+  },
+  "GCQ09": {
+    "id": "GCQ09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "You Must Die By My Hand!",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://iili.io/qdALeCN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "You Must Die By My Hand!-GCQ09",
+    "type": "Special",
+    "cost": "3"
+  },
+  "GCQ10": {
+    "id": "GCQ10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vanishing Planet! Legendary Clash!",
+        "type": "Effect",
+        "cost": "5",
+        "image": "https://iili.io/qdAsyLN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vanishing Planet! Legendary Clash!-GCQ10",
+    "type": "Effect",
+    "cost": "5"
+  },
+  "GCQ11": {
+    "id": "GCQ11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mechanised Vengeance",
+        "type": "Action",
+        "cost": "4",
+        "image": "https://iili.io/qdAsmIR.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mechanised Vengeance-GCQ11",
+    "type": "Action",
+    "cost": "4"
+  },
+  "GCQ12": {
+    "id": "GCQ12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Expendable Resources",
+        "type": "Effect",
+        "cost": "5",
+        "image": "https://iili.io/qdAstkJ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Expendable Resources-GCQ12",
+    "type": "Effect",
+    "cost": "5"
+  },
+  "GCQ13": {
+    "id": "GCQ13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shocking Assault",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://iili.io/qdAsQdg.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shocking Assault-GCQ13",
+    "type": "Action",
+    "cost": "3"
   }
 }
