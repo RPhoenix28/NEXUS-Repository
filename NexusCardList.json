@@ -54,14 +54,14 @@
       "front": {
         "name": "Krillin, Reliable Tactician",
         "type": "Character",
-        "cost": "4",
+        "cost": "2",
         "image": "https://iili.io/qJLDw5g.png",
         "isHorizontal": false
       }
     },
     "name": "https://iili.io/q2qBss9.png",
     "type": "Character",
-    "cost": "4"
+    "cost": "2"
   },
   "BFN04": {
     "id": "BFN04",
@@ -70,14 +70,14 @@
       "front": {
         "name": "Piccolo, Fused Power",
         "type": "Character",
-        "cost": "6",
+        "cost": "4",
         "image": "https://iili.io/qJLDFfI.png",
         "isHorizontal": false
       }
     },
     "name": "Piccolo, Fused Power-BFN04",
     "type": "Character",
-    "cost": "6"
+    "cost": "4"
   },
   "BFN05": {
     "id": "BFN05",
@@ -150,14 +150,14 @@
       "front": {
         "name": "Namekian Grassland",
         "type": "Effect",
-        "cost": "4",
-        "image": "https://iili.io/qJLt2ae.png",
+        "cost": "2",
+        "image": "https://iili.io/q2qs5vf.png",
         "isHorizontal": false
       }
     },
     "name": "Namekian Grassland-BFN09",
     "type": "Effect",
-    "cost": "4"
+    "cost": "2"
   },
   "BFN10": {
     "id": "BFN10",
