@@ -231,7 +231,7 @@
         "name": "Frieza, Dreadful Emperor-GCQ01",
         "type": "Hero",
         "cost": 0,
-        "image": "https://iili.io/qdAQVPS.png",
+        "image": "https://iili.io/q2qzyV2.png",
         "isHorizontal": false
       }
     },
@@ -295,7 +295,7 @@
         "name": "Frieza, Full Power at Last",
         "type": "Special",
         "cost": "9",
-        "image": "https://iili.io/qdALLn2.png",
+        "image": "https://iili.io/q2qzZ9s.png",
         "isHorizontal": false
       }
     },
@@ -310,14 +310,14 @@
       "front": {
         "name": "Zarbon, Elegant Vanguard",
         "type": "Character",
-        "cost": "3",
-        "image": "https://iili.io/qdALiZl.png",
+        "cost": "4",
+        "image": "https://iili.io/q2qztAG.png",
         "isHorizontal": false
       }
     },
     "name": "Zarbon, Elegant Vanguard-GCQ06",
     "type": "Character",
-    "cost": "3"
+    "cost": "4"
   },
   "GQC07": {
     "id": "GQC07",
@@ -343,7 +343,7 @@
         "name": "Death Ball",
         "type": "Special",
         "cost": 0,
-        "image": "https://iili.io/qdAQoAJ.png",
+        "image": "https://iili.io/q2qz4MN.png",
         "isHorizontal": false
       }
     },
@@ -358,14 +358,14 @@
       "front": {
         "name": "You Must Die By My Hand!",
         "type": "Action",
-        "cost": "3",
-        "image": "https://iili.io/qdALeCN.png",
+        "cost": "5",
+        "image": "https://iili.io/q2qzscX.png",
         "isHorizontal": false
       }
     },
     "name": "You Must Die By My Hand!-GCQ09",
     "type": "Action",
-    "cost": "3"
+    "cost": "5"
   },
   "GCQ10": {
     "id": "GCQ10",
