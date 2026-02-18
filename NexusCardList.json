@@ -581,5 +581,21 @@
     "name": "Goku, Honed God Ki-SLB08",
     "type": "Character",
     "cost": "3"
+  },
+  "SLT01": {
+    "id": "SLT01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rules",
+        "type": false,
+        "cost": 0,
+        "image": "https://iili.io/q2U0aAF.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ascension Rules Token",
+    "type": false,
+    "cost": 0
   }
 }
