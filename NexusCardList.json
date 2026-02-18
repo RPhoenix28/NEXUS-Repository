@@ -587,15 +587,15 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Rules",
+        "name": "Ascension Rules",
         "type": false,
         "cost": 0,
         "image": "https://iili.io/q2U0aAF.png",
         "isHorizontal": false
       }
     },
-    "name": "Ascension Rules Token",
-    "type": false,
+    "name": "Ascension Rules",
+    "type": "Effect",
     "cost": 0
   }
 }
