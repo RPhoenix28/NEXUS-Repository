@@ -524,7 +524,39 @@
       }
     },
     "name": "Beerus, God of Destruction-SLB05",
-    "type": "Hero",
+    "type": "Special",
     "cost": "8"
+  },
+  "SLB06": {
+    "id": "SLB06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Whis",
+        "type": "Special",
+        "cost": "15",
+        "image": "https://iili.io/q2zLWJI.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Whis, Universe 7 Angel-SLB06",
+    "type": "Special",
+    "cost": "15"
+  },
+  "SLB07": {
+    "id": "SLB07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "I Will Not Let You Destroy My World!",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://iili.io/q2zLMUN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "I Will Not Let You Destroy My World!-SLB07",
+    "type": "Action",
+    "cost": "3"
   }
 }
