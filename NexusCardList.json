@@ -558,5 +558,28 @@
     "name": "I Will Not Let You Destroy My World!-SLB07",
     "type": "Action",
     "cost": "3"
+  },
+  "SLB08": {
+    "id": "SLB08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goku, Honed God Ki",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://iili.io/q2WfJ9I.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Vegeta, Godly Prince",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://iili.io/q2Wf98N.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goku, Honed God Ki-SLB08",
+    "type": "Character",
+    "cost": "3"
   }
 }
