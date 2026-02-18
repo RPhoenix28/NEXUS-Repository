@@ -274,9 +274,9 @@
           },
           "Energy Zone": {
             "title": "Energy Zone",
-            "isHidden": "opponent-only",
+            "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
