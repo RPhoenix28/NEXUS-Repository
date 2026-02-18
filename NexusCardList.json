@@ -7,7 +7,7 @@
         "name": "Consult The Tomes",
         "type": "Action",
         "cost": "2",
-        "image": "https://iili.io/qJLeQkX.png",
+        "image": "https://iili.io/q2S5HxV.png",
         "isHorizontal": false
       }
     },
@@ -23,7 +23,7 @@
         "name": "Goku, The Planet's Hope",
         "type": "Hero",
         "cost": 0,
-        "image": "https://iili.io/qJLDXg1.png",
+        "image": "https://iili.io/q2SR96X.png",
         "isHorizontal": false
       }
     },
@@ -135,7 +135,7 @@
         "name": "Goku, Legendary Super Saiyan",
         "type": "Special",
         "cost": "9",
-        "image": "https://iili.io/qJLtpRa.png",
+        "image": "https://iili.io/q2SAyGt.png",
         "isHorizontal": false
       }
     },
@@ -231,7 +231,7 @@
         "name": "Frieza, Dreadful Emperor-GCQ01",
         "type": "Hero",
         "cost": 0,
-        "image": "https://iili.io/q2qzyV2.png",
+        "image": "https://iili.io/q2S7c3F.png",
         "isHorizontal": false
       }
     },
@@ -455,7 +455,7 @@
         "name": "Goku",
         "type": "Hero",
         "cost": 0,
-        "image": "https://iili.io/q2xtdEx.png",
+        "image": "https://iili.io/q2SNv0g.png",
         "isHorizontal": false
       }
     },
@@ -535,7 +535,7 @@
         "name": "Whis",
         "type": "Special",
         "cost": "15",
-        "image": "https://iili.io/q2zLWJI.png",
+        "image": "https://iili.io/q2SUvZx.png",
         "isHorizontal": false
       }
     },
