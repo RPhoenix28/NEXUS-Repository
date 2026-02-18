@@ -446,5 +446,85 @@
     "name": "Frieza Soldier Token",
     "type": "Character",
     "cost": 0
+  },
+  "SLB01": {
+    "id": "SLB01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goku",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://iili.io/q2xtdEx.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goku, Challenging The Heavens-SLB01",
+    "type": "Hero",
+    "cost": 0
+  },
+  "SLB02": {
+    "id": "SLB02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiren",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://iili.io/q2xZDk7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiren, The Grey-SLB02",
+    "type": "Hero",
+    "cost": 0
+  },
+  "SLB03": {
+    "id": "SLB03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://iili.io/q2xZt7S.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta, Explosive Rage-SLB03",
+    "type": "Character",
+    "cost": "3"
+  },
+  "SLB04": {
+    "id": "SLB04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goku",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://iili.io/q2xZLrl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goku, Onto New Horizons-SLB04",
+    "type": "Character",
+    "cost": "6"
+  },
+  "SLB05": {
+    "id": "SLB05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beerus",
+        "type": "Special",
+        "cost": "8",
+        "image": "https://iili.io/q2xZZ22.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beerus, God of Destruction-SLB05",
+    "type": "Hero",
+    "cost": "8"
   }
 }
